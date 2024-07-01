@@ -1,3 +1,3 @@
 # rusttictactoe
 
-Just a simple tic-tac-toe with basic AI as a rust learning project.
+Terminal based tic-tac-toe implementation in rust.
